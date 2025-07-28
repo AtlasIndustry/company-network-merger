@@ -1,7 +1,7 @@
 # Company Network Merger – Zero Trust Architecture
 
 ## Overview
-This project documents the secure integration of two enterprise networks—Company A and Company B—into a unified, modernized infrastructure. The solution prioritizes Zero Trust architecture, cloud-first design, and identity-based access control using Okta, Cloud RADIUS, and Amazon Web Services (AWS).
+This project documents the secure integration of two enterprise networks Company A and Company B into a unified, modernized infrastructure. The solution prioritizes Zero Trust architecture, cloud-first design, and identity-based access control using Okta, Cloud RADIUS, and Amazon Web Services (AWS).
 
 This project was completed as part of the Master of Science in Cybersecurity and Information Assurance program at Western Governors University (WGU).
 
